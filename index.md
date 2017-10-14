@@ -1,6 +1,6 @@
-# TDB Applications
+# DarkZen
 
-Welcome to [TDB Applications](https://github.com/TDBapps), software developed by TheDarkBomber.
+Welcome to [DarkZen](https://github.com/TDBapps), software developed by TheDarkBomber.
 
 ## Projects
 [WASP](https://TDBapps.github.io/WASP)
